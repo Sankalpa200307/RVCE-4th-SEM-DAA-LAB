@@ -1,4 +1,4 @@
-#RVCE 4th Design And Analysis of Algorithms Lab<br>
+## RVCE 4th sem Design And Analysis of Algorithms Lab<br>
 1.Implementation of Merge Sort.<br>
 2.Implementation of Topological sorting.<br>
 3.Implementation of Horsepool string matching.<br>
